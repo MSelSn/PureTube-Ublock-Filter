@@ -1,0 +1,61 @@
+www.youtube.com###guide-renderer > #footer
+www.youtube.com###guide-section-title
+www.youtube.com###header #country-code
+www.youtube.com###logo > #country-code
+www.youtube.com###primary-entry
+www.youtube.com###teaser-carousel
+www.youtube.com###voice-search-button
+www.youtube.com##.paper-toast-open.yt-notification-action-renderer.style-scope.toast-button
+www.youtube.com##.style-scope.ytd-feed-nudge-renderer
+www.youtube.com##.style-scope.ytd-guide-renderer > .style-scope.ytd-guide-renderer[guide-persistent-and-visible=""] > .ytd-guide-section-renderer > :nth-of-type(1) > [role][href="/channel/UC-9-kyTW8ZkZNDHQJ6FgpwQ"]
+www.youtube.com##.style-scope.ytd-guide-section-renderer > [role="link"][href="/gaming"]
+www.youtube.com##.ytd-guide-renderer:nth-of-type(2) ytd-guide-entry-renderer.style-scope.ytd-guide-section-renderer[line-end-style]
+www.youtube.com##:nth-of-type(4) #rich-shelf-header-container
+www.youtube.com##[aria-label="Clip"]
+www.youtube.com##[aria-label="Download"]
+www.youtube.com##[aria-label="İndir"]
+www.youtube.com##[href="/playlist?list=LL"]
+www.youtube.com##[href^="/hashtag/"]
+www.youtube.com##[role="listitem"]
+www.youtube.com##[role][href="/channel/UCEgdi0XIXXZ-qJOFPf4JSKw"]
+www.youtube.com##[title="Downloads"]
+www.youtube.com##[title="Music"]
+www.youtube.com##[title="Müzik"]
+www.youtube.com##a[tabindex][role][aria-label][href][title]
+www.youtube.com##button[aria-label="Klip"]
+www.youtube.com##div#tabs-divider
+www.youtube.com##div.yt-lockup-view-model.yt-lockup-view-model--vertical.yt-lockup-view-model--collection-stack-2.content-id-LL.yt-lockup-view-model--compact.yt-lockup-view-model--rich-grid-legacy-margin.yt-lockup-view-model--flex-none
+www.youtube.com##how-this-was-made-section-view-model.ytwHowThisWasMadeSectionViewModelHost[tabindex]
+www.youtube.com##segmented-like-dislike-button-view-model.ytSegmentedLikeDislikeButtonViewModelHost > yt-smartimation.smartimation.smartimation--enable-masking > div.smartimation__content
+www.youtube.com##tp-yt-paper-toast#toast
+www.youtube.com##yt-comment-filter-context-view-model
+www.youtube.com##yt-download-list-item-view-model > yt-list-item-view-model[role] > div
+www.youtube.com##ytd-app[frosted-glass-exp][guide-persistent-and-visible] > div#content.style-scope.ytd-app > tp-yt-app-drawer#guide.style-scope.ytd-app[align][role][style][position][swipe-open][opened][persistent] > div#contentContainer.style-scope.tp-yt-app-drawer[style][position][swipe-open][opened][persistent] > div#guide-wrapper.style-scope.ytd-app > div#guide-content.style-scope.ytd-app > div#guide-inner-content.style-scope.ytd-app > ytd-guide-renderer#guide-renderer.style-scope.ytd-app > div#sections.style-scope.ytd-guide-renderer > ytd-guide-section-renderer.style-scope.ytd-guide-renderer[guide-persistent-and-visible]:nth-of-type(2) > div#items.style-scope.ytd-guide-section-renderer > ytd-guide-collapsible-entry-renderer.style-scope.ytd-guide-section-renderer[can-show-more] > ytd-guide-entry-renderer#expander-item.style-scope.ytd-guide-collapsible-entry-renderer[role][line-end-style] > a#endpoint.yt-simple-endpoint.style-scope.ytd-guide-entry-renderer[tabindex][role][title] > tp-yt-paper-item.style-scope.ytd-guide-entry-renderer[role][style-target][tabindex][aria-disabled]
+www.youtube.com##ytd-grid-video-renderer:has([overlay-style="SHORTS"])
+www.youtube.com##ytd-guide-collapsible-entry-renderer[can-show-more]
+www.youtube.com##ytd-guide-entry-renderer > [role="link"][href="/channel/UC4R8DWoMoI7CAwX8_LjQHig"]
+www.youtube.com##ytd-guide-entry-renderer#downloads-entry.style-scope.ytd-guide-downloads-entry-renderer
+www.youtube.com##ytd-guide-entry-renderer.style-scope.ytd-guide-collapsible-section-entry-renderer > a.yt-simple-endpoint.style-scope.ytd-guide-entry-renderer > tp-yt-paper-item.style-scope.ytd-guide-entry-renderer > yt-icon.arrow-icon.style-scope.ytd-guide-entry-renderer
+www.youtube.com##ytd-guide-section-renderer.style-scope.ytd-guide-renderer[guide-persistent-and-visible]:nth-of-type(2) > #items.style-scope.ytd-guide-section-renderer > ytd-guide-collapsible-entry-renderer.style-scope.ytd-guide-section-renderer[can-show-more=""]
+www.youtube.com##ytd-guide-section-renderer.style-scope.ytd-guide-renderer[guide-persistent-and-visible]:nth-of-type(2) > .style-scope.ytd-guide-section-renderer > ytd-guide-entry-renderer.style-scope.ytd-guide-section-renderer[line-end-style]
+www.youtube.com##ytd-guide-section-renderer:nth-of-type(4)
+www.youtube.com##ytd-guide-section-renderer:nth-of-type(5)
+www.youtube.com##ytd-inline-survey-renderer
+www.youtube.com##ytd-mini-guide-entry-renderer.style-scope.ytd-mini-guide-renderer > [title="İndirilenler"]
+www.youtube.com##ytd-mini-guide-entry-renderer:nth-of-type(2)
+www.youtube.com##ytd-notification-topbar-button-renderer
+www.youtube.com##ytd-rich-item-renderer:has([overlay-style="SHORTS"])
+www.youtube.com##ytd-rich-item-renderer:nth-of-type(3)
+www.youtube.com##ytd-rich-section-renderer:nth-of-type(5) [elements-per-row="3"] #rich-shelf-header
+www.youtube.com##ytd-structured-description-content-renderer[inline-structured-description] > div > yt-video-attributes-section-view-model
+www.youtube.com##ytd-text-inline-expander[always-show-expand-button][is-expanded] > div[slot]
+www.youtube.com##ytd-video-renderer:has([overlay-style="SHORTS"])
+www.youtube.com##:matches-path(/^(?!\/feed\/history).*$/)ytd-reel-shelf-renderer:has(.ytd-reel-shelf-renderer:has-text(/(^| )Shorts( |$)/i))
+www.youtube.com##:matches-path(/^(?!\/feed\/history).*$/)ytd-rich-section-renderer:has(#title:has-text(/(^| )Shorts( |$)/i))
+www.youtube.com##.shelf-header-layout-wiz__title:has-text(/(^| )Shorts( |$)/i):upward(grid-shelf-view-model)
+www.youtube.com##.yt-shelf-header-layout__title:has-text(/(^| )Shorts( |$)/i):upward(grid-shelf-view-model)
+www.youtube.com##tp-yt-paper-tab:has(.tp-yt-paper-tab:has-text(Shorts))
+www.youtube.com##yt-chip-cloud-chip-renderer:has(yt-formatted-string:has-text(/^Shorts$/i))
+www.youtube.com##yt-tab-shape:has-text(/^Shorts$/)
+www.youtube.com##ytd-grid-video-renderer:has(#video-title:has-text(/(^| )#Shorts?( |$)/i))
+www.youtube.com##ytd-guide-entry-renderer:has(yt-formatted-string:has-text(/^Shorts$/i))
