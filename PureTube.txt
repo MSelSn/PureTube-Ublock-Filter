@@ -1,7 +1,7 @@
 ! Title: PureTube-Ublock-Filter
 ! Description: Remove everything unnecessary from Youtube
 ! Version: 2026.03.03
-! Last modified: 2025-03-03 08:16
+! Last modified: 2025-03-03 08:23
 ! Homepage: https://github.com/MSelSn/PureTube-Ublock-Filter
 ! License: https://github.com/MSelSn/PureTube-Ublock-Filter/blob/master/LICENSE.md
 
@@ -37,6 +37,7 @@ www.youtube.com##.ytThumbnailHoverOverlayToggleActionsViewModelHost
 www.youtube.com##ytd-menu-popup-renderer tp-yt-paper-item:has(svg path[d^="M12 1C5.925 1 1 5.925"])
 www.youtube.com##yt-list-item-view-model:has(svg path[d^="M12 2"])
 www.youtube.com##ytd-guide-section-renderer:has(a[href^="/premium"])
+www.youtube.com##a[href="/feed/downloads"]:upward(ytd-mini-guide-entry-renderer)
 www.youtube.com###guide-links-primary
 www.youtube.com###guide-links-secondary
 www.youtube.com###voice-search-button
