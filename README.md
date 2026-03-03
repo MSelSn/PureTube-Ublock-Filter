@@ -4,7 +4,7 @@ This YouTube filter removes most of the unnecessary things on YouTube (at least 
 
 Try it out and let me improve it based on your feedback.
 
-<h2>🪛 Setup</h2>
+<h2>⚙️ Setup</h2>
 
 You can view and download the filter [from here](https://github.com/MSelSn/PureTube-Ublock-Filter/blob/main/PureTube.txt).
 
