@@ -59,6 +59,7 @@ www.youtube.com##.ytSuggestionComponentThumbnailContainer
 www.youtube.com##ytd-feed-nudge-renderer.ytd-item-section-renderer.style-scope
 www.youtube.com##ytd-rich-shelf-renderer:has(a[href^="/watch"]):not(:has(a[href^="/playlist"])):not(:has(a[href^="/feed/history"]))
 www.youtube.com##description-inline-expander > .ytd-watch-metadata.style-scope
+www.youtube.com##a[href^="/hashtag/"]
 
 ! Youtube Mobile
 
