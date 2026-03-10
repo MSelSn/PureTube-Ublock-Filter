@@ -5,9 +5,13 @@
 
 ! Youtube Desktop
 
-! Attention! Prevents changing the volume setting by scrolling the mouse wheel. Change the volume with the up/down keys of the keyboard. Does not work with the Ublock Origin Lite extension.
-www.youtube.com##+js(aeld, wheel)
+! Does not work with the Ublock Origin Lite extension. Just does work with the Ublock Origin in Firefox.
+www.youtube.com##+js(aeld, wheel) 
+www.youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.kevlar_watch_idle_pause, false)
+www.youtube.com##+js(aeld, visibilitychange)
+www.youtube.com##+js(nano-sib)
 
+! Does work with the Ublock Origin Lite and Ublock Origin Lite extension.
 www.youtube.com###toast
 www.youtube.com##.ytp-prev-button.ytp-button
 www.youtube.com##.ytp-next-button.ytp-button.ytp-playlist-ui
@@ -59,16 +63,13 @@ www.youtube.com##ytd-rich-shelf-renderer:has(a[href^="/watch"]):not(:has(a[href^
 www.youtube.com##description-inline-expander > .ytd-watch-metadata.style-scope
 www.youtube.com##ytd-metadata-row-container-renderer
 www.youtube.com###info > .yt-formatted-string.style-scope.yt-simple-endpoint
-youtube.com##a[href^="/hashtag/"]:upward(span)
-youtube.com##span.yt-core-attributed-string--link-inherit-color:has-text(/^ *$/)
-youtube.com##yt-confirm-dialog-renderer
-youtube.com##tp-yt-paper-dialog
-youtube.com##.opened
-youtube.com##yt-confirm-dialog-renderer
-youtube.com##+js(aeld, visibilitychange)
-youtube.com##+js(nano-sib)
-youtube.com##.ytp-pause-overlay
-youtube.com##+js(set, yt.config_.EXPERIMENT_FLAGS.kevlar_watch_idle_pause, false)
+www.youtube.com##a[href^="/hashtag/"]:upward(span)
+www.youtube.com##span.yt-core-attributed-string--link-inherit-color:has-text(/^ *$/)
+www.youtube.com##yt-confirm-dialog-renderer
+www.youtube.com##tp-yt-paper-dialog
+www.youtube.com##.opened
+www.youtube.com##yt-confirm-dialog-renderer
+www.youtube.com##.ytp-pause-overlay
 
 ! Youtube Mobile
 
