@@ -75,6 +75,7 @@ www.youtube.com##tp-yt-paper-dialog
 www.youtube.com##.opened
 www.youtube.com##yt-confirm-dialog-renderer
 www.youtube.com##.ytp-pause-overlay
+www.youtube.com##ytd-watch-metadata.watch-active-metadata[style="--yt-saturated-base-background: rgba(30,5,1,1.000); --yt-saturated-raised-background: rgba(61,12,3,1.000); --yt-saturated-additive-background: rgba(225,73,45,0.169); --yt-saturated-text-primary: rgba(253,226,221,1.000); --yt-saturated-text-secondary: rgba(244,163,148,1.000); --yt-saturated-outline: initial; --yt-saturated-key-light: initial; --yt-saturated-collection-stack: initial; --yt-saturated-inverted-background: rgba(237,134,114,1.000); --yt-saturated-text-primary-inverse: initial; --yt-saturated-text-disabled: initial; --yt-saturated-drop-shadow: initial; --yt-saturated-card-outline: initial; --yt-saturated-overlay-background: rgba(61,12,3,0.800); --yt-saturated-overlay-text-primary: initial;"] > .ytd-watch-metadata > #bottom-row > div#teaser-carousel.ytd-watch-metadata
 
 ! Youtube Mobile
 
