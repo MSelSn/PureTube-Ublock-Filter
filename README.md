@@ -1,4 +1,4 @@
-<h2>▶️ PureTube-Ublock-Filter</h2>
+<h2>▶️ Youtube-Unnecessarys-Filter</h2>
 
 This YouTube filter removes most of the unnecessary things on YouTube (at least in my opinion 😁).
 
