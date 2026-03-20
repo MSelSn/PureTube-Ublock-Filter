@@ -1,6 +1,6 @@
 ! Title: Youtube-Unnecessarys-Filter
 ! Description: Remove everything unnecessary from Youtube
-! Homepage: https://github.com/MSelSn/Youtube-Unnecessarys-Filter
+! Homepage: https://github.com/MSelDev/Youtube-Unnecessarys-Filter
 ! License: https://github.com/MSelDev/Youtube-Unnecessarys-Filter/blob/main/LICENSE
 
 ! Youtube Desktop
